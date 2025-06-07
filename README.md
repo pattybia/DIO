@@ -1,6 +1,6 @@
 # 🏢 Simulador de Investimento - Fundos Imobiliários
 
-- **Autor:** David Bernardo
+- **Autor:** Patricia Ferreira
 - **BootCamp:** Santander - Excel com Inteligência Artificial
 - **Tech Educator at DIO:** Felipe Silva Aguiar
 
@@ -42,17 +42,3 @@ Além disso, o simulador:
 - [ ] Videos aulas Dio
 
 ---
-
-## 📸 Exemplo de Uso
-
-![exemplo do simulador](./images/demoFina_page-0001.jpg)
-
----
-
-## 📦 Como Usar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/sdavi38/simuladorFinaceiroExcel
-```
